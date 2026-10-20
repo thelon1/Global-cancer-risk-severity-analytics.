@@ -123,6 +123,3 @@ jupyter notebook notebooks/Comprehensive_EDA_and_Inferential_Analysis.ipynb
 - Add cross-validation and SHAP-based explainability.
 - Build an interactive dashboard (Streamlit / Power BI).
 - Validate findings on real-world cancer registry data.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
